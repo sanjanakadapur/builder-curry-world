@@ -507,8 +507,8 @@ export default function Index() {
               }}
               transition={{ type: "spring", stiffness: 300, damping: 25 }}
             >
-              <span className="text-2xl font-mono font-bold text-align-green-400">
-                ALIGN_NETWORK.exe
+              <span className="text-2xl font-sans font-bold text-align-green-400">
+                alignxyz.vercel.app
               </span>
             </motion.div>
           </motion.div>
